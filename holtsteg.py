@@ -2,9 +2,9 @@
 # Used https://stegano.readthedocs.io/en/latest/module.html
 # see readme.txt for manual
 
-Bfrom datetime import datetime
+from datetime import datetime
 from stegano import lsb
-#from Crypto.Cipher import AES
+from Crypto.Cipher import AES
 import secrets
 import argparse
 
