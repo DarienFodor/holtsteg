@@ -1,6 +1,6 @@
 # holtsteg
 Python Encryption and Steganography tool made by Darien Fodor and Alex Runholt
-depentdant on stegano and pyCryptodrome
+depentdant on stegano and pyCryptodome
 
 usage: holtsteg.py [-h] {encrypt,decrypt} ...
 
