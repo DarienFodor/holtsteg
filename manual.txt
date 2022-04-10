@@ -1,10 +1,6 @@
-# holtsteg
+# holtsteg manual
 Python Encryption and Steganography tool made by Darien Fodor and Alex Runholt
-depentdant on stegano and pyCryptodome
-
-Holtsteg has two main modes, encrypt and decrypt. Encrypt allows one to insert a plaintext message or text file into a image or encrypt it with AES then store the encrypted message with an image.
-
-The only accessible image format is .jpg
+See https://github.com/DarienFodor/holtsteg for download and https://youtu.be/ewUBtCV0Fvo and a presentation on its usage
 
 
 usage: holtsteg.py [-h] {encrypt,decrypt} ...
